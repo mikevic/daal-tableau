@@ -39,7 +39,6 @@
               <li><a href = "https://www.aiesec.org/#/home">AIESEC Home</a></li>
               <!-- ><li class = "sel"><a href = "#">I'm Selected!</a></li> -->
               <li><a href = "https://opportunities.aiesec.org">Opportunities</a></li>
-              <li><a href = "http://live.myaiesec.net/ai-report-q4">AI Report</a></li>
               <li><a href = "http://blog.aiesec.org">Blog</a></li>
               
           </ul>
@@ -58,11 +57,9 @@
           <a class="navbar-brand" href="#">DAAL 2013</a>
         </div>
           <ul class="nav navbar-nav">
-            <li class="active"><a href="index.php">Home</a></li>
-            <li><a href="#about">How to Use</a></li>
-            <li><a href="#contact">Goal Achievement</a></li>
+            <li><a href="index.php">Home</a></li>
+            <li><a href="how-to-use.php">How to Use</a></li>
             <li><a href="daal.php">DAAL</a></li>
-            <li><a href="#contact">Support</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
